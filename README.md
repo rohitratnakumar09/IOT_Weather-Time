@@ -22,10 +22,7 @@ This project uses the OpenWeatherMap API to fetch real-time weather data.
 
 📚 References
 This project was inspired by and built upon the following resources:
-OpenWeatherMap API Guide
-
-A helpful guide on using OpenWeatherMap API with Python and ESP32.
-ST7789 Display Library >> https://github.com/russhughes/st7789s3_mpy
-
-OpenWeatherMap Icons >> https://github.com/rodrigokamada/openweathermap
+1) OpenWeatherMap API Guide
+2) ESP32 ST7789 Display Library >> https://github.com/russhughes/st7789s3_mpy
+3) OpenWeatherMap Icons >> https://github.com/rodrigokamada/openweathermap
 
